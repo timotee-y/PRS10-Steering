@@ -1,0 +1,27 @@
+CGGTTS GPS/GLONASS DATA FORMAT VERSION = 02
+REV DATE = 2023-04-25
+RCVR = TS31 TF-GNSS-200B 331020 2016 ATX4 V4.10.0
+CH = 544
+IMS = TS31 TF-GNSS-200B 331020 2016 TFS V3.9.3
+LAB = BJTU-TF
+X = -2172258.066 m
+Y = +4388225.066 m
+Z = +4073631.972 m
+FRAME = ITRF, WGS84->ITRF Dx = -0.0 m, Dy = -0.0 m, Dz = -0.0 m, ds = -0.0, Rx = -0.000000, Ry = -0.000000, Rz = -0.000000 
+COMMENTS = TS31
+INT DLY = 23.6 ns (GPS C1), 25.1 ns (GPS P1), 0.0 ns (GPS X1), 0.0 ns (GPS C2), 25.1 ns (GPS P2), 0.0 ns (GPS C5)     CAL_ID = 123456
+CAB DLY = 210.2 ns
+REF DLY = 0.0 ns
+REF = UTC(NIM)
+CKSUM = 4A
+
+SAT CL  MJD  STTIME TRKL ELV AZTH   REFSV      SRSV     REFSYS    SRSYS  DSG IOE MDTR SMDT MDIO SMDI MSIO SMSI ISG FR HC FRC CK
+             hhmmss  s  .1dg .1dg    .1ns     .1ps/s     .1ns    .1ps/s .1ns     .1ns.1ps/s.1ns.1ps/s.1ns.1ps/s.1ns
+  5    60112.27917                                           -38                                                 
+  6    60112.27917                                           -75                                                 
+  9    60112.27917                                          -124                                                 
+ 11    60112.27917                                           -64                                                 
+ 12    60112.27917                                            29                                                 
+ 20    60112.27917                                           -24                                                 
+ 25    60112.27917                                           -27                                                 
+ 29    60112.27917                                          -113                                                 
